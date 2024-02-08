@@ -52,4 +52,4 @@ flowchart
             I--> |Aucune entrée| I
 
     D --> |Aucun switch| D
-    ```
+```
